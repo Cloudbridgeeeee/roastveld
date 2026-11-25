@@ -20,7 +20,8 @@
   --color-bad: #e86a5a;
 
   --radius-card: 26px;
-  --radius-ctl: 999px;
+  --radius-ctl: 14px;
+  --radius-btn: 999px;
 }
 
 :root {
