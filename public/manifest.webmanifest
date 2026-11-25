@@ -1,0 +1,16 @@
+{
+  "name": "RoastVeld",
+  "short_name": "RoastVeld",
+  "description": "AI production analytics software that connects coffee roasting histories with quality assessment records to identify inconsistent commercial characteristics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#140d09",
+  "theme_color": "#140d09",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
