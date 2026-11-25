@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for RoastVeld.
 - Industry: Food Manufacturing, Quality Assurance, Machine Learning
 - Founder: Kelechi Umeh (Founder & CEO)
 - Co-founder: Rukayat Adebisi (Co-founder & CTO)
-- Contact: kelechi@roastveld.top
+- Contact: kelechi@roastveld.space
 - Business model: Production-site subscriptions
 
 ## Stack
